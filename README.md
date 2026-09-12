@@ -797,7 +797,7 @@ Create your own fork on GitHub.
 ## 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/copilot_ai.git
+git clone https://github.com/sai0052/copilot_ai.git
 cd copilot_ai
 ```
 
@@ -853,7 +853,7 @@ A specific open-source license can be added before accepting external contributi
 
 # 👨‍💻 Author
 
-**SS BEATS**
+**Sangeetham saikumar**
 
 GitHub:
 
